@@ -1,0 +1,7 @@
+We are making note of the most important thing to make basic deep concept about the programming in this repository.
+* first thing is what are the building blocks of programming.what are the thing each program contain.
+    1.token are the building blocks of programming.token are identifier,constant,keyword,string litrals and symbols.
+    2.a minimum single white space should be given between the two different tokens in programming.
+    3.program flow level,(how the source code get executed).
+    4.what are the intermediate file formed before comverting source code into executibe code.
+    
